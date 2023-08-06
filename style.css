@@ -44,7 +44,7 @@ body {
 .grid-item {
     margin-bottom: 20px;
     padding: 20px;
-    border-radius: 5px;
+    border-radius: 10px;
     box-shadow: 1px 1px 5px 1px rgb(0,0,0,0.2);
     font-size: 13px;
 }
@@ -111,7 +111,7 @@ body {
     }
 
     #testimonial-grid-container {
-        max-width: 1200px;
+        max-width: 1400px;
         margin: 0 auto;
     }
     
